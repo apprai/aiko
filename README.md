@@ -1,1 +1,5 @@
 # Aiko
+
+## Getting Started
+
+## Contributors
